@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DEB2FD&height=120&section=header"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=DD65F7&center=true&vCenter=true&width=435&lines=Hello+Mundo%2C;Meu+nome+é+Thifanny+Sistelos;Tenho+24+anos;Sou+de+Recife,+visse?;Tecnologa+em+Design;e+Exploradora+da+tecnologia;Seja,+Bem-vinde!:%29" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=DD65F7&center=true&vCenter=true&width=435&lines=Hello+Mundo%2C;Meu+nome+é+Thifanny+Sistelos;Tenho+25+anos;Sou+de+Recife,+visse?;Tecnologa+em+Design;e+Exploradora+da+tecnologia;Seja,+Bem-vinde!:%29" alt="Typing SVG" /></a>
 
 <br>
 <div align="center">  
