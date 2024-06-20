@@ -15,7 +15,7 @@
 
 <div align="center"> 
   
-  <a href = "mailto:thifanny.tif@gmail.com"><img src="https://img.shields.io/badge/Gmail-4C0078?style=for-the-badge&logo=gmail&logoColor=white&hide_border=true" target="_blank"></a>
+  <a href = "mailto:sistelos.t@outlook.com"><img src="https://img.shields.io/badge/Gmail-4C0078?style=for-the-badge&logo=gmail&logoColor=white&hide_border=true" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thifannytif" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-4c0078?style=for-the-badge&logo=linkedin&logoColor=white&hide_border=true" target="_blank"></a> 
   <a href="https://www.behance.net/thifanny" target="_blank"><img src="https://img.shields.io/badge/-Behance-4C0078?style=for-the-badge&logo=behance&logoColor=white&hide_border=true" target="_blank"></a> 
 </div>
